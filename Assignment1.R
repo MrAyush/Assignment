@@ -32,7 +32,7 @@ summary(lm.fit)
 # 8.a.1.  Yes, their is a relationship b/w mpg and horsepower as the slope(Bo)
 #       is non-zero, we can reject the NULL hypothesis.
 
-# 8.a.2.  R^2 value is 0.6059, so our 60.6% of variance of mpg is explaned by
+# 8.a.2.  R^2 value is 0.6059, so 60.6% of variance of mpg is explaned by
 #       horsepower.
 
 # 8.a.3.  Their relation is negative (< zero) so we can say that increase in
